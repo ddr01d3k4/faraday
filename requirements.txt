@@ -22,7 +22,7 @@ pyasn1
 service_identity>=17.0.0
 SQLAlchemy>=1.2.0b2
 tqdm>=4.15.0
-twisted>=18.9.0
+twisted>=24.7.0rc1
 webargs>=6.0.0
 marshmallow-sqlalchemy
 filteralchemy-fork
